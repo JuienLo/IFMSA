@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [IFMSA](IFMSA.md)
 * [GA](GA.md)
-* [SCOME](scome.md)
+* [SCOME](SCOME.md)
 * [NMOs]
 * [Regions & Meetings]
 * [Programs]
