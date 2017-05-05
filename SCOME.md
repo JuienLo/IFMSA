@@ -19,7 +19,7 @@ _單是靠歷史研究法就對處理諸多醫學問題很有益處。By 威廉�
 1. SCOME manual
 
 推薦書籍：
-1. 醫學，為什麼是現在這麼樣子？
+1. 醫學，為什麼是現在這麼樣子？（ 馬克‧傑克森）
 
 ## 醫學教育
 兩種教育模式：
@@ -27,7 +27,7 @@ _單是靠歷史研究法就對處理諸多醫學問題很有益處。By 威廉�
 2. Student-centered education或outcome- based-learning，著重於希望醫學生最終獲得什麼能力。
 
 但我們怎麼評估？
-The Royal College of Physicians and Surgeons of Canada (CanMEDS)提出醫學專家的標準如以下：
+The Royal College of Physicians and Surgeons of Canada (CanMEDS)提出醫學專家應該具備以下能力：
 1. Communicator：與病患溝通。
 2. Collaborator：醫療團隊合作。
 3. Manager：在健康體系懂得如何做資源分配。
@@ -36,8 +36,9 @@ The Royal College of Physicians and Surgeons of Canada (CanMEDS)提出醫學專�
 6. Professional：遵守專業規範。
 
 ## 官方合作單位
-1. World Federation for Medical Education(WFME)：
-
+1. World Federation for Medical Education(WFME)
+成立於1972。
+2. Association for Medical Education in Europe(AMEE)
 
 
 

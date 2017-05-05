@@ -52,7 +52,8 @@ IFMSA有六個常設委員會（Standing Commitee）：
 3. 學習soft skills
 4. 了解全球議題
 
-
+## 延伸閱讀
+1. IFMSA官方網站http://ifmsa.org/category/news/
 
 
 
