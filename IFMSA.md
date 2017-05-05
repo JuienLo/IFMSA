@@ -55,6 +55,7 @@ IFMSA有六個常設委員會（Standing Commitee）：
 ## 延伸閱讀
 1. IFMSA官方網站 http://ifmsa.org/category/news/
 2. MSI(Medical Students International)期刊 http://ifmsa.org/library-of-all-msi-of-the-past-years/
+3. Youtube頻道 https://www.youtube.com/user/ifmsaonline/featured
 
 
 
