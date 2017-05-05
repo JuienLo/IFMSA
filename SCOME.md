@@ -25,3 +25,31 @@ _單是靠歷史研究法就對處理諸多醫學問題很有益處。By 威廉�
 兩種教育模式：
 1. Teacher-centered education
 2. Student-centered education或outcome- based-learning，著重於希望醫學生最終獲得什麼能力。
+
+但我們怎麼評估？
+The Royal College of Physicians and Surgeons of Canada (CanMEDS)提出醫學專家的標準如以下：
+1. Communicator：與病患溝通。
+2. Collaborator：醫療團隊合作。
+3. Manager：在健康體系懂得如何做資源分配。
+4. Health Advocate：醫師藉由他們的專業和影響力向民眾做衛教。
+5. Scholar：持續學習和反思。
+6. Professional：遵守專業規範。
+
+## 官方合作單位
+1. World Federation for Medical Education(WFME)：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
