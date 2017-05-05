@@ -1,3 +1,4 @@
+# Trainings
 ##如何寫policy statement?
 #### 內容
 1. Summary
@@ -10,3 +11,4 @@
     + 現代式
     + 利害關係人(stakeholder)所該採取的行動
 4. References
+
