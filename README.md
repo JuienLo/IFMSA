@@ -1,4 +1,4 @@
 # Getting Start with IFMSA
 
- file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is an online manual for getting start with IFMSA.
 
