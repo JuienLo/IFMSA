@@ -1,3 +1,4 @@
-# My Awesome Book
+# Getting Start with IFMSA
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+ file file serves as your book's preface, a great place to describe your book's content and ideas.
+
