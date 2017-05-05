@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [IFMSA](IFMSA.md)
-* [GA guide](GA.md)
-* [SCOME International Team](scome_IT.md)
+* [GA](GA.md)
+* [SCOME](scome.md)
 * [NMOs]
 * [Regions & Meetings]
 * [Programs]
