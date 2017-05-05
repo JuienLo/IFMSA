@@ -1,18 +1,19 @@
-##SCOME團隊
+# SCOME
+## 團隊
 1. Director on Medical Education (SCOME-D)
 2. Liaison Officer for Medical Education issues (LME)
 3. Regional Assistant (RA)
 4. National Officer on Medical Education (NOME)
 5. Local Officers on Medical Education (LOME)
 
-## SCOME計畫
+## 計畫
 1. Medical Education Systems
 2. Teaching Medical Skills
 3. Human Resources for Health
 4. Ethics and Human Rights in Health
 5. Health Systems
 
-## SCOME Sessions
+## Sessions
 1. Posters Fair：NMO介紹本身的醫療系統。
 2. Open Space
 3. Accreditation of Medical Schools 101

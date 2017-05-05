@@ -29,7 +29,7 @@ IFMSA有六個常設委員會（Standing Commitee）：
 各地區也有各自的地區性會議(Regional Meeting)，聚焦於地區性議題。
 
 ## IFMSA團隊
-1. Executive Board:
+1. Executive Board
     + President
     + Vice President for Internal Affairs
     + Vice President for External Affairs
